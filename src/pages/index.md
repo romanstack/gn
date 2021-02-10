@@ -7,7 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >
-      ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)test
+      ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)![](https://i.ytimg.com/an_webp/YDqQ9W0\_BBM/mqdefault\_6s.webp?du=3000\&sqp=CPzKjoEG\&rs=AOn4CLDJevhkJeHJ7VGT-Uu3p9DTvfLgQg)test
       testtest![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     actions:
       - type: action
